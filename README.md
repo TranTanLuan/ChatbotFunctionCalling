@@ -14,4 +14,7 @@ uvicorn main:app --reload
 - After run the above command: go to "http://127.0.0.1:8000/docs" to use the app  
 
 ## Demo
-![Demo](./chatbot_function_calling/Demo.mp4)
+<!-- ![Demo](./chatbot_function_calling/Demo.mp4) -->
+<video width="320" height="240" controls>
+  <source src="./chatbot_function_calling/Demo.mp4" type="video/mp4">
+</video>
