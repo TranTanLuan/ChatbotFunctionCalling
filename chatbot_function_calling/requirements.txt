@@ -1,0 +1,5 @@
+langchain
+python-dotenv
+openai==0.28
+uvicorn
+fastapi
